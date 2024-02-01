@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.boxBox{
+    display: flex;
+    flex-wrap: wrap;
+    flex: none;
+}
+
+.gridBox{
+    flex: none;
+}
+
+.canvasBtn{
+    height: 20px;
+    width: 140px;
+    flex:none;
+}
+
+input{
+    width: 40px;
+}
